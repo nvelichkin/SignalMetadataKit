@@ -41,7 +41,6 @@ A Swift & Objective-C library used by other Signal libraries.
 
   s.dependency 'AxolotlKit'
   s.dependency 'CocoaLumberjack'
-  s.dependency 'Curve25519Kit'
   s.dependency 'HKDFKit'
   s.dependency 'SignalCoreKit'
   s.dependency 'SwiftProtobuf'
